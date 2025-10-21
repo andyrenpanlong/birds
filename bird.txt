@@ -1,0 +1,318 @@
+Ainleys Storm-Petrel
+Audubon's Shearwater
+Bachmans Warbler
+Baka Indigobird
+Ballman's Malimbe
+Banded Snake-Eagle
+Barn Owl
+Bartletts Tinamou
+Batess Nightjar
+Bedfords Paradise-Flycatcher
+Berlepschs Tinamou
+Black Magpie
+Black-and-white Monarch
+Black-bibbed Cuckooshrike
+Black-bibbed Monarch
+Black-billed Parrot
+Black-chinned Monarch
+Black-tailed Monarch
+Black-tipped Monarch
+Blood-breasted Flowerpecker
+Blue-cheeked Parrot
+Bolles Pigeon
+Bonapartes Gull
+Bonapartes Nightjar
+Bonapartes Parakeet
+Bonellis Eagle
+Bothas Lark
+Botteris Sparrow
+Boucards Wren
+Bougainville Monarch
+Boultons Batis
+Bourkes Parrot
+Bowers Shrikethrush
+Boyers Cuckooshrike
+Bradfields Hornbill
+Bradfields Swift
+Brandts Cormorant
+Brauns Bushshrike
+Brazzas Martin
+Brewers Blackbird
+Brewers Sparrow
+Bronze-naped Pigeon
+Brookss Leaf Warbler
+Bruces Green-Pigeon
+Brush Cuckoo
+Buff-chested Babbler
+Campbells Fairywren
+Cape Crombec
+Cape Lark
+Cape Petrel
+Cassin's Honeyguide
+Chapmans Bristle-Tyrant
+Chatham Island Gerygone
+Chatham Island Pigeon
+Chatham Oystercatcher
+Chatham Petrel
+Chatham Robin
+Chattering Giant-Honeyeater
+Chestnut-breasted Wren
+Chestnut-tailed Jungle Flycatcher
+Cholo Alethe
+Cinereous Tit
+Clarke's Weaver
+Cloud-scraping Cisticola
+Common Cicadabird
+Common Redpoll
+Comoro Drongo
+Congo Serpent-Eagle
+Cretzschmars Babbler
+Crossleys Ground-Thrush
+Cuban Parrot
+Dark-crowned White-eye
+Delegorgue's Pigeon
+Doria's Goshawk
+Ducorps's Cockatoo
+Dull Flycatcher
+Eastern Cattle Egret
+Eastern Mountain Greenbul
+Eurasian Nutcracker
+Fasciated Snake-Eagle
+Fatuhiva Monarch
+Festive Parrot
+Fiji Whistler
+Finschs Francolin
+Fischers Greenbul
+Flores White-eye
+Forbess Forest Rail
+Forest Weaver
+Ganongga White-eye
+Germain's Swiftlet
+Gibber Chat
+Goslings Apalis
+Grants Bluebill
+Gray-faced Liocichla
+Gray-headed Social-Weaver
+Gray-hooded White-eye
+Gray-throated White-eye
+Great Bittern
+Great Kai White-eye
+Green Sunbird
+Green-backed Honeyguide
+Greencap Eremomela
+Halmahera Swiftlet
+Herring Gull
+Heuglin's White-eye
+Hispaniolan Parrot
+Hoary Redpoll
+Hoffmannss Woodcreeper
+Houbara Bustard
+House Wren
+Humes Boobook
+Imperial Parrot
+Island Thrush
+Japanese Tit
+Javan Cuckooshrike
+Javan Gray-throated White-eye
+Jerdons Courser
+Kawall's Parrot
+Kemps Longbill
+Klagess Gnatcatcher
+Kopje Warbler
+Large Cuckooshrike
+Lathams Francolin
+Layard's White-eye
+Lesser Bristlebill
+Lesser Redpoll
+Lilac-crowned Parrot
+Little Kai White-eye
+Loetoe Monarch
+Long-tailed Cormorant
+Long-tailed Woodcreeper
+Mackinlay's Cuckoo-Dove
+Macqueen's Bustard
+Madagascar Bee-eater
+Marquesas Ground Dove
+Marquesas Imperial-Pigeon
+Marquesas Kingfisher
+Marquesas Monarch
+Mealy Parrot
+Meeks Lorikeet
+Meeks Pygmy-Parrot
+Meyers Goshawk
+Mindanao White-eye
+Moluccan Cuckoo
+Mountain Serin
+Mountain Wheatear
+Nahans Partridge
+Neumanns Warbler
+North Papuan Pitta
+Northern Mouse-colored Tyrannulet
+Oceanic Flycatcher
+Olive-rumped Serin
+Orange-breasted Myzomela
+Orange-winged Parrot
+Peale's Imperial-Pigeon
+Peters's Twinspot
+Plain Xenops
+Puerto Rican Parrot
+Pygmy White-eye
+Red-backed Scrub-Robin
+Red-browed Parrot
+Red-crowned Parrot
+Red-fronted Tinkerbird
+Red-headed Cisticola
+Red-lored Parrot
+Red-necked Parrot
+Red-rumped Swallow
+Red-spectacled Parrot
+Red-tailed Parrot
+Reichenow's Firefinch
+Reichenow's Woodpecker
+Rimitara Reed Warbler
+Rock Martin
+Rolls Partridge
+Rufous Grasswren
+Rufous-crowned Roller
+Rufous-naped Wren
+Rufous-necked Wryneck
+Rusty-breasted Whistler
+Salvadori's Eremomela
+Salvadori's Weaver
+Sanfords White-eye
+Scaly-naped Parrot
+Schlegels Francolin
+Seram Swiftlet
+Severtzov's Grouse
+Shelleys Eagle-Owl
+Shining Sunbird
+Slaty Brushfinch
+Slender-billed Crow
+Snares Island Snipe
+Solomons Cuckooshrike
+Somali Long-billed Lark
+South Papuan Pitta
+Southern Boobook
+Southern Mouse-colored Tyrannulet
+Spectacled Monarch
+Spixs Macaw
+St. Lucia Parrot
+St. Vincent Parrot
+Steere's Liocichla
+Streak-headed White-eye
+Stresemanns Bristlefront
+Striated Swallow
+Sulawesi Swiftlet
+Sunda Robin
+Swinhoes Rail
+Taczanowskis Tinamou
+Tanzania Seedeater
+Temotu Whistler
+Timor White-eye
+Todds Nightjar
+Tricolored Brushfinch
+Truk Monarch
+Truk White-eye
+Tucuman Parrot
+Tullbergs Woodpecker
+Tumbes Tyrannulet
+Turquoise-fronted Parrot
+Ursulas Sunbird
+Variable Indigobird
+Velvet Dove
+Verreauxs Batis
+Vinaceous-breasted Parrot
+Wahlberg's Honeyguide
+Wallaces Scops-Owl
+Wangi-Wangi White-eye
+Western Cattle Egret
+Western Whistler
+White Helmetshrike
+White-bellied Flowerpecker
+White-breasted Monarch
+White-breasted Sunbird
+White-breasted Thrasher
+White-browed White-eye
+White-fronted Parrot
+White-tailed Monarch
+White-tipped Monarch
+Whytes Francolin
+Wilkinss Finch
+Woodhouses Antpecker
+Yellow-billed Barbet
+Yellow-billed Parrot
+Yellow-browed Oxylabes
+Yellow-crowned Parrot
+Yellow-headed Parrot
+Yellow-lored Parrot
+Yellow-naped Parrot
+Yellow-rumped Eremomela
+Yellow-shouldered Parrot
+Yellow-spectacled White-eye
+Yellow-throated Greenbul
+Yellow-throated Whistler
+Zarudnys Sparrow
+五色鳥
+低地繡眼
+克島圓尾穴鳥
+冠海雀
+冠羽畫眉
+塞內加爾鸚鵡
+大彎嘴
+小翼鶇
+庫頁島蝗鶯
+戈芬氏鳳頭鸚鵡
+日本叉尾海燕
+栗背林鴝
+桃臉愛情鳥
+棕噪眉
+火冠戴菊鳥
+灰林鴿
+灰腰金絲燕
+灰鷽
+灰鸚鵡
+烏頭翁
+爪哇池鷺
+琉球山椒鳥
+白喉林鴿
+白尾八哥
+白耳畫眉
+白頭文鳥
+白頭鶇
+白頭鶴
+紅臉鸚鵡
+紅領吸蜜鸚鵡
+紅頭綠鳩
+紋翼畫眉
+索氏圓尾鸌
+紫針尾雨燕
+繡眼畫眉
+聖誕島軍艦鳥
+臺灣叢樹鶯
+臺灣噪眉
+臺灣山鷓鴣
+臺灣朱雀
+臺灣白喉噪眉
+臺灣竹雞
+臺灣藍鵲
+臺灣鷦眉
+菲律賓扇尾鶲
+蒙古百靈
+藍翅八色鳥
+藍腹鷴
+蘭嶼角鴞
+褐翅叉尾海燕
+褐頭花翼
+褐頭鶇
+赤腹山雀
+遺鷗
+長尾鳩
+飯島柳鶯
+黃山雀
+黃胸藪眉
+黃腹琉璃
+黑原鵑鵙
+黑林鴿
+黑細鸌
+黑背白腹穴鳥
+黑長尾雉

@@ -1,0 +1,251 @@
+匹配结果
+================================================================================
+数据1中的鸟名                        数据2中的first_name                          URL
+--------------------------------------------------------------------------------
+Audubon's Shearwater           Audubon's Shearwater                     https://ebird.org/species/audshe
+Baka Indigobird                Baka Indigobird                          https://ebird.org/species/bakind1
+Ballman's Malimbe              Ballman's Malimbe                        https://ebird.org/species/balmal2
+Banded Snake-Eagle             Banded Snake-Eagle                       https://ebird.org/species/baseag1
+Barn Owl                       Barn Owl                                 https://ebird.org/species/brnowl
+Black Magpie                   Black Magpie                             https://ebird.org/species/blamag1
+Black-and-white Monarch        Black-and-white Monarch                  https://ebird.org/species/bawmon1
+Black-bibbed Cuckooshrike      Black-bibbed Cuckooshrike                https://ebird.org/species/bkbcus1
+Black-bibbed Monarch           Black-bibbed Monarch                     https://ebird.org/species/blbmon2
+Black-billed Parrot            Black-billed Parrot                      https://ebird.org/species/blbpar1
+Black-chinned Monarch          Black-chinned Monarch                    https://ebird.org/species/blcmon1
+Black-tailed Monarch           Black-tailed Monarch                     https://ebird.org/species/bltmon1
+Black-tipped Monarch           Black-tipped Monarch                     https://ebird.org/species/bltmon2
+Blood-breasted Flowerpecker    Blood-breasted Flowerpecker              https://ebird.org/species/blbflo1
+Blue-cheeked Parrot            Blue-cheeked Parrot                      https://ebird.org/species/blcpar2
+Bougainville Monarch           Bougainville Monarch                     https://ebird.org/species/boumon1
+Bronze-naped Pigeon            Bronze-naped Pigeon                      https://ebird.org/species/brnpig1
+Brush Cuckoo                   Brush Cuckoo                             https://ebird.org/species/brucuc1
+Buff-chested Babbler           Buff-chested Babbler                     https://ebird.org/species/bucbab1
+Cape Crombec                   Cape Crombec                             https://ebird.org/species/capcro1
+Cape Lark                      Cape Lark                                https://ebird.org/species/y00415
+Cape Petrel                    Cape Petrel                              https://ebird.org/species/cappet
+Cassin's Honeyguide            Cassin's Honeyguide                      https://ebird.org/species/cashon1
+Chatham Island Gerygone        Chatham Island Gerygone                  https://ebird.org/species/chiger2
+Chatham Island Pigeon          Chatham Island Pigeon                    https://ebird.org/species/nezpig3
+Chatham Oystercatcher          Chatham Oystercatcher                    https://ebird.org/species/chaoys1
+Chatham Petrel                 Chatham Petrel                           https://ebird.org/species/chapet1
+Chatham Robin                  Chatham Robin                            https://ebird.org/species/charob1
+Chattering Giant-Honeyeater    Chattering Giant-Honeyeater              https://ebird.org/species/chagih1
+Chestnut-breasted Wren         Chestnut-breasted Wren                   https://ebird.org/species/chbwre1
+Chestnut-tailed Jungle Flycatcher Chestnut-tailed Jungle Flycatcher        https://ebird.org/species/chtjuf1
+Cholo Alethe                   Cholo Alethe                             https://ebird.org/species/choale1
+Cinereous Tit                  Cinereous Tit                            https://ebird.org/species/gretit2
+Clarke's Weaver                Clarke's Weaver                          https://ebird.org/species/clawea1
+Cloud-scraping Cisticola       Cloud-scraping Cisticola                 https://ebird.org/species/clscis1
+Common Cicadabird              Common Cicadabird                        https://ebird.org/species/cicada1
+Comoro Drongo                  Comoro Drongo                            https://ebird.org/species/comdro1
+Congo Serpent-Eagle            Congo Serpent-Eagle                      https://ebird.org/species/coseag1
+Cuban Parrot                   Cuban Parrot                             https://ebird.org/species/cubpar1
+Dark-crowned White-eye         Dark-crowned White-eye                   https://ebird.org/species/dacwhe1
+Delegorgue's Pigeon            Delegorgue's Pigeon                      https://ebird.org/species/delpig1
+Doria's Goshawk                Doria's Goshawk                          https://ebird.org/species/dorgos1
+Ducorps's Cockatoo             Ducorps's Cockatoo                       https://ebird.org/species/duccoc1
+Dull Flycatcher                Dull Flycatcher                          https://ebird.org/species/dulfly1
+Eastern Mountain Greenbul      Eastern Mountain Greenbul                https://ebird.org/species/easmog1
+Fasciated Snake-Eagle          Fasciated Snake-Eagle                    https://ebird.org/species/faseag1
+Fatuhiva Monarch               Fatuhiva Monarch                         https://ebird.org/species/fatmon1
+Festive Parrot                 Festive Parrot                           https://ebird.org/species/fespar1
+Fiji Whistler                  Fiji Whistler                            https://ebird.org/species/fijwhi2
+Flores White-eye               Flores White-eye                         https://ebird.org/species/flowhe1
+Forest Weaver                  Forest Weaver                            https://ebird.org/species/forwea1
+Ganongga White-eye             Ganongga White-eye                       https://ebird.org/species/gaweye1
+Gibber Chat                    Gibber Chat                              https://ebird.org/species/descha1
+Gray-faced Liocichla           Gray-faced Liocichla                     https://ebird.org/species/gyflio1
+Gray-headed Social-Weaver      Gray-headed Social-Weaver                https://ebird.org/species/gyhsow1
+Gray-hooded White-eye          Gray-hooded White-eye                    https://ebird.org/species/gyhwhe1
+Gray-throated White-eye        Gray-throated White-eye                  https://ebird.org/species/gytwhe5
+Gray-throated White-eye        Javan Gray-throated White-eye            https://ebird.org/species/jgtwhe1
+Great Kai White-eye            Great Kai White-eye                      https://ebird.org/species/grkwhe1
+Green Sunbird                  Green Sunbird                            https://ebird.org/species/gresun1
+Green Sunbird                  Little Green Sunbird                     https://ebird.org/species/ligsun2
+Green-backed Honeyguide        Green-backed Honeyguide                  https://ebird.org/species/grbhon2
+Greencap Eremomela             Greencap Eremomela                       https://ebird.org/species/greere1
+Halmahera Swiftlet             Halmahera Swiftlet                       https://ebird.org/species/molswi3
+Heuglin's White-eye            Heuglin's White-eye                      https://ebird.org/species/heuwhe2
+Hispaniolan Parrot             Hispaniolan Parrot                       https://ebird.org/species/hispar1
+Hoary Redpoll                  Hoary Redpoll                            https://ebird.org/species/hoared
+Houbara Bustard                Houbara Bustard                          https://ebird.org/species/houbus1
+House Wren                     House Wren                               https://ebird.org/species/houwre
+Imperial Parrot                Imperial Parrot                          https://ebird.org/species/imppar1
+Island Thrush                  Island Thrush                            https://ebird.org/species/islthr1
+Javan Cuckooshrike             Javan Cuckooshrike                       https://ebird.org/species/javcus1
+Javan Gray-throated White-eye  Javan Gray-throated White-eye            https://ebird.org/species/jgtwhe1
+Kawall's Parrot                Kawall's Parrot                          https://ebird.org/species/kawpar1
+Kopje Warbler                  Kopje Warbler                            https://ebird.org/species/kopwar1
+Layard's White-eye             Layard's White-eye                       https://ebird.org/species/laweye1
+Lesser Bristlebill             Lesser Bristlebill                       https://ebird.org/species/lesbri2
+Lesser Redpoll                 Lesser Redpoll                           https://ebird.org/species/lesred1
+Lilac-crowned Parrot           Lilac-crowned Parrot                     https://ebird.org/species/licpar
+Little Kai White-eye           Little Kai White-eye                     https://ebird.org/species/likwhe1
+Loetoe Monarch                 Loetoe Monarch                           https://ebird.org/species/loemon1
+Long-tailed Cormorant          Long-tailed Cormorant                    https://ebird.org/species/lotcor1
+Long-tailed Woodcreeper        Long-tailed Woodcreeper                  https://ebird.org/species/lotwoo1
+Mackinlay's Cuckoo-Dove        Mackinlay's Cuckoo-Dove                  https://ebird.org/species/macdov1
+Macqueen's Bustard             Macqueen's Bustard                       https://ebird.org/species/macbus1
+Madagascar Bee-eater           Madagascar Bee-eater                     https://ebird.org/species/mabeat1
+Marquesas Ground Dove          Marquesas Ground Dove                    https://ebird.org/species/margrd1
+Marquesas Imperial-Pigeon      Marquesas Imperial-Pigeon                https://ebird.org/species/marimp1
+Marquesas Kingfisher           Marquesas Kingfisher                     https://ebird.org/species/markin2
+Marquesas Monarch              Marquesas Monarch                        https://ebird.org/species/marmon2
+Mealy Parrot                   Mealy Parrot                             https://ebird.org/species/meapar
+Mindanao White-eye             Mindanao White-eye                       https://ebird.org/species/minwhe1
+Moluccan Cuckoo                Moluccan Cuckoo                          https://ebird.org/species/molcuc1
+Moluccan Cuckoo                Moluccan Cuckooshrike                    https://ebird.org/species/molcus1
+Mountain Serin                 Mountain Serin                           https://ebird.org/species/mouser1
+Mountain Wheatear              Mountain Wheatear                        https://ebird.org/species/mouwhe1
+North Papuan Pitta             North Papuan Pitta                       https://ebird.org/species/pappit2
+Northern Mouse-colored Tyrannulet Northern Mouse-colored Tyrannulet        https://ebird.org/species/moctyr7
+Oceanic Flycatcher             Oceanic Flycatcher                       https://ebird.org/species/ocefly1
+Olive-rumped Serin             Olive-rumped Serin                       https://ebird.org/species/olrser1
+Orange-breasted Myzomela       Orange-breasted Myzomela                 https://ebird.org/species/orbmyz1
+Orange-winged Parrot           Orange-winged Parrot                     https://ebird.org/species/orwpar
+Peale's Imperial-Pigeon        Peale's Imperial-Pigeon                  https://ebird.org/species/peipig1
+Peters's Twinspot              Peters's Twinspot                        https://ebird.org/species/pettwi1
+Plain Xenops                   Plain Xenops                             https://ebird.org/species/plaxen1
+Puerto Rican Parrot            Puerto Rican Parrot                      https://ebird.org/species/purpar1
+Pygmy White-eye                Pygmy White-eye                          https://ebird.org/species/pyweye1
+Red-backed Scrub-Robin         Red-backed Scrub-Robin                   https://ebird.org/species/rbsrob1
+Red-browed Parrot              Red-browed Parrot                        https://ebird.org/species/rebpar7
+Red-crowned Parrot             Red-crowned Parrot                       https://ebird.org/species/recpar
+Red-fronted Tinkerbird         Red-fronted Tinkerbird                   https://ebird.org/species/reftin1
+Red-headed Cisticola           Red-headed Cisticola                     https://ebird.org/species/rehcis2
+Red-lored Parrot               Red-lored Parrot                         https://ebird.org/species/relpar
+Red-necked Parrot              Red-necked Parrot                        https://ebird.org/species/renpar1
+Red-spectacled Parrot          Red-spectacled Parrot                    https://ebird.org/species/respar2
+Red-tailed Parrot              Red-tailed Parrot                        https://ebird.org/species/retpar1
+Reichenow's Firefinch          Reichenow's Firefinch                    https://ebird.org/species/reifir1
+Reichenow's Woodpecker         Reichenow's Woodpecker                   https://ebird.org/species/reiwoo1
+Rimitara Reed Warbler          Rimitara Reed Warbler                    https://ebird.org/species/rimrew1
+Rock Martin                    Rock Martin                              https://ebird.org/species/rocmar2
+Rufous Grasswren               Rufous Grasswren                         https://ebird.org/species/rufgra1
+Rufous-crowned Roller          Rufous-crowned Roller                    https://ebird.org/species/rucrol2
+Rufous-naped Wren              Rufous-naped Wren                        https://ebird.org/species/runwre1
+Rufous-necked Wryneck          Rufous-necked Wryneck                    https://ebird.org/species/runwry1
+Rusty-breasted Whistler        Rusty-breasted Whistler                  https://ebird.org/species/rubwhi1
+Salvadori's Eremomela          Salvadori's Eremomela                    https://ebird.org/species/salere1
+Salvadori's Weaver             Salvadori's Weaver                       https://ebird.org/species/salwea1
+Scaly-naped Parrot             Scaly-naped Parrot                       https://ebird.org/species/scnpar1
+Seram Swiftlet                 Seram Swiftlet                           https://ebird.org/species/molswi1
+Severtzov's Grouse             Severtzov's Grouse                       https://ebird.org/species/sevgro1
+Shining Sunbird                Shining Sunbird                          https://ebird.org/species/shisun3
+Slaty Brushfinch               Slaty Brushfinch                         https://ebird.org/species/slbfin2
+Slender-billed Crow            Slender-billed Crow                      https://ebird.org/species/slbcro1
+Snares Island Snipe            Snares Island Snipe                      https://ebird.org/species/snisni1
+Solomons Cuckooshrike          Solomons Cuckooshrike                    https://ebird.org/species/soicus1
+Somali Long-billed Lark        Somali Long-billed Lark                  https://ebird.org/species/slblar1
+South Papuan Pitta             South Papuan Pitta                       https://ebird.org/species/pappit1
+Southern Boobook               Southern Boobook                         https://ebird.org/species/souboo8
+Southern Mouse-colored Tyrannulet Southern Mouse-colored Tyrannulet        https://ebird.org/species/moctyr3
+Spectacled Monarch             Spectacled Monarch                       https://ebird.org/species/spemon1
+St. Lucia Parrot               St. Lucia Parrot                         https://ebird.org/species/stlpar1
+St. Vincent Parrot             St. Vincent Parrot                       https://ebird.org/species/stvpar1
+Streak-headed White-eye        Streak-headed White-eye                  https://ebird.org/species/sthwhe1
+Sulawesi Swiftlet              Sulawesi Swiftlet                        https://ebird.org/species/molswi4
+Sunda Robin                    Sunda Robin                              https://ebird.org/species/sunrob1
+Tanzania Seedeater             Tanzania Seedeater                       https://ebird.org/species/tansee1
+Temotu Whistler                Temotu Whistler                          https://ebird.org/species/temwhi1
+Timor White-eye                Timor White-eye                          https://ebird.org/species/timwhe1
+Tricolored Brushfinch          Tricolored Brushfinch                    https://ebird.org/species/trbfin1
+Truk Monarch                   Truk Monarch                             https://ebird.org/species/trumon1
+Truk White-eye                 Truk White-eye                           https://ebird.org/species/trweye1
+Tucuman Parrot                 Tucuman Parrot                           https://ebird.org/species/tucpar1
+Tumbes Tyrannulet              Tumbes Tyrannulet                        https://ebird.org/species/moctyr6
+Turquoise-fronted Parrot       Turquoise-fronted Parrot                 https://ebird.org/species/bufpar
+Variable Indigobird            Variable Indigobird                      https://ebird.org/species/varind1
+Velvet Dove                    Velvet Dove                              https://ebird.org/species/veldov1
+Vinaceous-breasted Parrot      Vinaceous-breasted Parrot                https://ebird.org/species/vinpar1
+Wahlberg's Honeyguide          Wahlberg's Honeyguide                    https://ebird.org/species/wahhon1
+Wangi-Wangi White-eye          Wangi-Wangi White-eye                    https://ebird.org/species/wawwhe1
+Western Cattle Egret           Western Cattle Egret                     https://ebird.org/species/categr1
+Western Whistler               Western Whistler                         https://ebird.org/species/weswhi2
+White Helmetshrike             White Helmetshrike                       https://ebird.org/species/whihel1
+White-bellied Flowerpecker     White-bellied Flowerpecker               https://ebird.org/species/whbflo1
+White-breasted Monarch         White-breasted Monarch                   https://ebird.org/species/whbmon1
+White-breasted Sunbird         White-breasted Sunbird                   https://ebird.org/species/whbsun2
+White-breasted Thrasher        White-breasted Thrasher                  https://ebird.org/species/whbthr1
+White-browed White-eye         White-browed White-eye                   https://ebird.org/species/whbwhe1
+White-fronted Parrot           White-fronted Parrot                     https://ebird.org/species/whfpar1
+White-tailed Monarch           White-tailed Monarch                     https://ebird.org/species/whtmon1
+White-tipped Monarch           White-tipped Monarch                     https://ebird.org/species/whtmon2
+Yellow-billed Barbet           Yellow-billed Barbet                     https://ebird.org/species/yebbar1
+Yellow-billed Parrot           Yellow-billed Parrot                     https://ebird.org/species/yebpar1
+Yellow-browed Oxylabes         Yellow-browed Oxylabes                   https://ebird.org/species/yeboxy1
+Yellow-crowned Parrot          Yellow-crowned Parrot                    https://ebird.org/species/ywcpar
+Yellow-headed Parrot           Yellow-headed Parrot                     https://ebird.org/species/yehpar
+Yellow-lored Parrot            Yellow-lored Parrot                      https://ebird.org/species/yelpar1
+Yellow-naped Parrot            Yellow-naped Parrot                      https://ebird.org/species/yenpar1
+Yellow-rumped Eremomela        Yellow-rumped Eremomela                  https://ebird.org/species/yerere1
+Yellow-shouldered Parrot       Yellow-shouldered Parrot                 https://ebird.org/species/yespar1
+Yellow-spectacled White-eye    Yellow-spectacled White-eye              https://ebird.org/species/ysweye1
+Yellow-throated Greenbul       Yellow-throated Greenbul                 https://ebird.org/species/yetgre1
+Yellow-throated Whistler       Yellow-throated Whistler                 https://ebird.org/species/yetwhi1
+五色鳥                            五色鳥                                      https://ebird.org/species/taibar2
+低地繡眼                           低地繡眼                                     https://ebird.org/species/loweye2
+克島圓尾穴鳥                         克島圓尾穴鳥                                   https://ebird.org/species/kerpet
+冠海雀                            冠海雀                                      https://ebird.org/species/japmur1
+冠羽畫眉                           冠羽畫眉                                     https://ebird.org/species/taiyuh1
+塞內加爾鸚鵡                         塞內加爾鸚鵡                                   https://ebird.org/species/senpar
+大彎嘴                            大彎嘴                                      https://ebird.org/species/sbsbab2
+小翼鶇                            小翼鶇                                      https://ebird.org/species/whbsho6
+庫頁島蝗鶯                          庫頁島蝗鶯                                    https://ebird.org/species/sakwar1
+戈芬氏鳳頭鸚鵡                        戈芬氏鳳頭鸚鵡                                  https://ebird.org/species/tancoc1
+日本叉尾海燕                         日本叉尾海燕                                   https://ebird.org/species/maspet2
+栗背林鴝                           栗背林鴝                                     https://ebird.org/species/cobrob1
+桃臉愛情鳥                          桃臉愛情鳥                                    https://ebird.org/species/peflov
+棕噪眉                            棕噪眉                                      https://ebird.org/species/ruslau1
+火冠戴菊鳥                          火冠戴菊鳥                                    https://ebird.org/species/flamec1
+灰林鴿                            灰林鴿                                      https://ebird.org/species/aswpig1
+灰腰金絲燕                          灰腰金絲燕                                    https://ebird.org/species/gyrswi5
+灰鷽                             灰鷽                                       https://ebird.org/species/gyhbul5
+灰鸚鵡                            灰鸚鵡                                      https://ebird.org/species/grepar
+烏頭翁                            烏頭翁                                      https://ebird.org/species/stybul1
+爪哇池鷺                           爪哇池鷺                                     https://ebird.org/species/japher1
+琉球山椒鳥                          琉球山椒鳥                                    https://ebird.org/species/ryumin1
+白喉林鴿                           白喉林鴿                                     https://ebird.org/species/metpig1
+白尾八哥                           白尾八哥                                     https://ebird.org/species/whvmyn
+白耳畫眉                           白耳畫眉                                     https://ebird.org/species/whesib1
+白頭文鳥                           白頭文鳥                                     https://ebird.org/species/whhmun1
+白頭鶇                            白頭鶇                                      https://ebird.org/species/islthr24
+白頭鶴                            白頭鶴                                      https://ebird.org/species/hoocra1
+紅臉鸚鵡                           紅臉鸚鵡                                     https://ebird.org/species/rempar
+紅領吸蜜鸚鵡                         紅領吸蜜鸚鵡                                   https://ebird.org/species/railor7
+紅頭綠鳩                           紅頭綠鳩                                     https://ebird.org/species/whgpig1
+紋翼畫眉                           紋翼畫眉                                     https://ebird.org/species/taibar1
+索氏圓尾鸌                          索氏圓尾鸌                                    https://ebird.org/species/solpet1
+紫針尾雨燕                          紫針尾雨燕                                    https://ebird.org/species/purnee1
+繡眼畫眉                           繡眼畫眉                                     https://ebird.org/species/gycful1
+聖誕島軍艦鳥                         聖誕島軍艦鳥                                   https://ebird.org/species/chifri1
+臺灣叢樹鶯                          臺灣叢樹鶯                                    https://ebird.org/species/taibuw1
+臺灣噪眉                           臺灣噪眉                                     https://ebird.org/species/whwlau1
+臺灣山鷓鴣                          臺灣山鷓鴣                                    https://ebird.org/species/taipar1
+臺灣朱雀                           臺灣朱雀                                     https://ebird.org/species/vinros3
+臺灣白喉噪眉                         臺灣白喉噪眉                                   https://ebird.org/species/ruclau2
+臺灣竹雞                           臺灣竹雞                                     https://ebird.org/species/taibap1
+臺灣藍鵲                           臺灣藍鵲                                     https://ebird.org/species/formag1
+臺灣鷦眉                           臺灣鷦眉                                     https://ebird.org/species/taiwrb1
+菲律賓扇尾鶲                         菲律賓扇尾鶲                                   https://ebird.org/species/phipif1
+蒙古百靈                           蒙古百靈                                     https://ebird.org/species/monlar1
+藍翅八色鳥                          藍翅八色鳥                                    https://ebird.org/species/blwpit1
+藍腹鷴                            藍腹鷴                                      https://ebird.org/species/swiphe1
+蘭嶼角鴞                           蘭嶼角鴞                                     https://ebird.org/species/ryusco1
+褐翅叉尾海燕                         褐翅叉尾海燕                                   https://ebird.org/species/trspet
+褐頭花翼                           褐頭花翼                                     https://ebird.org/species/taiful1
+褐頭鶇                            褐頭鶇                                      https://ebird.org/species/gysthr1
+赤腹山雀                           赤腹山雀                                     https://ebird.org/species/vartit3
+遺鷗                             遺鷗                                       https://ebird.org/species/relgul2
+長尾鳩                            長尾鳩                                      https://ebird.org/species/phcdov1
+飯島柳鶯                           飯島柳鶯                                     https://ebird.org/species/ijlwar1
+黃山雀                            黃山雀                                      https://ebird.org/species/yeltit2
+黃胸藪眉                           黃胸藪眉                                     https://ebird.org/species/stelio1
+黃腹琉璃                           黃腹琉璃                                     https://ebird.org/species/vivnil3
+黃腹琉璃                           大黃腹琉璃                                    https://ebird.org/species/vivnil2
+黑原鵑鵙                           黑原鵑鵙                                     https://ebird.org/species/pietri1
+黑林鴿                            黑林鴿                                      https://ebird.org/species/jawpig1
+黑細鸌                            黑細鸌                                      https://ebird.org/species/chrshe
+黑背白腹穴鳥                         黑背白腹穴鳥                                   https://ebird.org/species/tahpet1
+黑長尾雉                           黑長尾雉                                     https://ebird.org/species/mikphe1
